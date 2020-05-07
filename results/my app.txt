@@ -1,0 +1,3 @@
+simple-jwt-api   LoadBalancer   10.100.63.84   a86f7ac2a9a504a1ebfe7f7243592650-2104097438.us-east-2.elb.amazonaws.com   80:32717/TCP   3m20s   app=simple-jwt-api
+
+
